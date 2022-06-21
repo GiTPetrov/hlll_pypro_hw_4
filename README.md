@@ -1,2 +1,2 @@
-# hlll_pypro_hw_4
+# Hillel: Python PRO: HW_4
 Django Tutorial
