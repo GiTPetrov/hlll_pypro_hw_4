@@ -6,7 +6,7 @@ orbs:
 
 jobs:
   flake8 and manage_py_test:
-    executor: python/3.10.4
+    executor: python/default
     environment:
       DJANGO_SECRET_KEY: django-insecure
     steps:
